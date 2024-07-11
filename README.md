@@ -88,6 +88,6 @@ Also , erm.. I wanna say if i would make a goal to myself it would probably be m
 
 <hr>
 
-🌐My Website🌐: <a href="https://crxmson.netlify.app">Crxmson</a>
+🌐My Website🌐: <a href="https://crxmson.netlify.app"  target="_blank">Crxmson</a>
 <br>
-💥My banger bio💥: <a href="https://guns.lol/crxmson">Bio</a>
+💥My banger bio💥: <a href="https://guns.lol/crxmson"  target="_blank">Bio</a>
