@@ -20,14 +20,6 @@ Also , erm.. I wanna say if i would make a goal to myself it would probably be m
 
 <br>
 <details> 
-<summary><h2>📊My Stats📊</h2></summary>
-![Crxmson's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xdot-mal&show_icons=true&theme=apprentice&border_radius=5)
-![Crxmson's GitHub Streak](https://streak-stats.demolab.com?user=0xDot-mal&theme=apprentice&border_radius=5)
-![Crxmson's Github most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xDot-mal&layout=compact&hide_border=true&theme=apprentice&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI)
-</details> 
-<br>
-
-<details> 
   <summary><h2>🛠️Tools I used somewhere🛠️</h2></summary>
 
   <h3>👨‍💻 Programming Languages include👨‍💻</h3>
@@ -85,6 +77,14 @@ Also , erm.. I wanna say if i would make a goal to myself it would probably be m
       <a href="#"><img alt="Windows 11" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
   </p>
 </details>
+<br>
+
+<details> 
+<summary><h2>📊My Stats📊</h2></summary>
+![Crxmson's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xdot-mal&show_icons=true&theme=apprentice&border_radius=5)
+![Crxmson's GitHub Streak](https://streak-stats.demolab.com?user=0xDot-mal&theme=apprentice&border_radius=5)
+![Crxmson's Github most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xDot-mal&layout=compact&hide_border=true&theme=apprentice&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI)
+</details> 
 
 
 <hr>
