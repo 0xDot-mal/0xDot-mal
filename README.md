@@ -23,6 +23,7 @@ Also , erm.. I wanna say if i would make a goal to myself it would probably be m
 ### My Stats📊
 ![Crxmson's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xdot-mal&show_icons=true&theme=apprentice&border_radius=5)
 ![Crxmson's GitHub Streak](https://streak-stats.demolab.com?user=0xDot-mal&theme=apprentice&border_radius=5)
+![Crxmson's Github most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xDot-mal&layout=compact&hide_border=true&theme=apprentice&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI)
 
 <br>
 
