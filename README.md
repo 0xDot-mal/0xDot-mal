@@ -82,9 +82,20 @@ Also , erm.. I wanna say if i would make a goal to myself it would probably be m
 <details> 
 <summary><h2>📊My Stats📊</h2></summary>
 
-![Law's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xDot-mal&title_color=bfbfbf&text_color=DC143C&icon_color=DC143C&border_color=f2f2f2&bg_color=1a1a1a&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xDot-mal&show_icons=true&include_all_commits=true&theme=date_night&hide_border=false" alt="Law's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDot-mal&layout=compact&theme=date_night&hide_border=false"/>
+
 
 </details> 
+<details>
+<a href="https://github.com/0xDot-mal/Website2">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDot-mal&repo=Website2&theme=date_night"/>
+</a>
+<br><br>
+<a href="https://github.com/0xDot-mal/Website">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDot-mal&repo=Website&theme=date_night"/>
+</a>
+</details>
 
 
 <hr>
