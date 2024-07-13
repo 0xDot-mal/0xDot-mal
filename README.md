@@ -102,6 +102,10 @@ Also , erm.. I wanna say if i would make a goal to myself it would probably be m
 
 <hr>
 
-🌐My Website🌐: <a href="https://crxmson.netlify.app"  target="_blank">Crxmson</a>
+<details>
+<summary><h2>🌐My website🌐</h2></summary>
+[[Netlify Status]("https://api.netlify.com/api/v1/badges/5e2942b4-d368-4311-9103-669b4ad4ae9d/deploy-status)](https://app.netlify.com/sites/crxmson/deploys")
+    
+</details>
 <br>
 💥My banger bio💥: <a href="https://guns.lol/crxmson"  target="_blank">Bio</a>
