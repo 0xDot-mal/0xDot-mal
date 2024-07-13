@@ -103,9 +103,8 @@ Also , erm.. I wanna say if i would make a goal to myself it would probably be m
 <hr>
 
 <details>
-<summary><h2>🌐My website🌐</h2></summary>
+<summary><h2>🌐My <a href="https://crxmson.netlify.app"  target="_blank">Website</a>🌐 & <a href="https://guns.lol/crxmson"  target="_blank">Bio</a></h2></summary>
 <a href="#"><img align="center" src="https://api.netlify.com/api/v1/badges/5e2942b4-d368-4311-9103-669b4ad4ae9d/deploy-status"></a>
     
 </details>
-<br>
-💥My banger bio💥: <a href="https://guns.lol/crxmson"  target="_blank">Bio</a>
+
