@@ -82,7 +82,7 @@ Also , erm.. I wanna say if i would make a goal to myself it would probably be m
 <details> 
 <summary><h2>📊My Stats📊</h2></summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xDot-mal&theme=catpuccino_mocha&show_icons=true)
+![Law's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xDot-mal&title_color=bfbfbf&text_color=DC143C&icon_color=DC143C&border_color=f2f2f2&bg_color=1a1a1a&show_icons=true)
 
 </details> 
 
