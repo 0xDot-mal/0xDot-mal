@@ -91,7 +91,7 @@ Also , erm.. I wanna say if i would make a goal to myself it would probably be m
 <details>
 <summary><h2>⚒️Top Repositories⚒️</h2></summary>    
 <a href="https://github.com/0xDot-mal/Grass-bot">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDot-mal&repo=Website&theme=date_night"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDot-mal&repo=Grass-bot&theme=date_night"/>
 </a>
 <br><br>
 <a href="https://github.com/0xDot-mal/Website-back-end">
@@ -99,7 +99,7 @@ Also , erm.. I wanna say if i would make a goal to myself it would probably be m
 </a>
 <br><br>
 <a href="https://github.com/0xDot-mal/Counting-program">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDot-mal&repo=Website&theme=date_night"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDot-mal&repo=Counting-program&theme=date_night"/>
 </a>
 </details>
 
