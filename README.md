@@ -4,8 +4,8 @@
 <br>
 **`ofc i genereated this using chatgpt duh👍👌`**
 
-I bring a wealth of expertise in cybersecurity, malware development, web development, and software engineering. My passion lies in creating secure, efficient solutions that drive innovation and enhance user experiences. With a strong analytical mindset and a commitment to continuous learning, I thrive in dynamic environments where I can contribute my skills to impactful projects.You can also check my <a href="https://www.youtube.com/channel/UC8haN0hOVjsV8FPpJBi4IFQ?">youtube</a> channel I doesn't content right now and if you check the channel you'll realise that there nothing related to programming/coding It's because my potato pc🔥 can only record using xbox-game-bar so I can't do something really although I tried to record using obs-studio but the quality was so bad and the quality of the video is probably 144p10 since it was cutting clips as images instead of videos for some other reasons.
-Also , erm.. I wanna say if i would make a goal to myself it would probably be making a useful project or repos that actually help developers and anyone else.
+I bring a wealth of expertise in cybersecurity, malware development, web development, and software engineering. My passion lies in creating secure, efficient solutions that drive innovation and enhance user experiences. With a strong analytical mindset and a commitment to continuous learning, I thrive in dynamic environments where I can contribute my skills to impactful projects.You can also check my <a href="https://www.youtube.com/channel/UC8haN0hOVjsV8FPpJBi4IFQ?">youtube</a> channel I doesn't upload any content right now and if you check the channel you'll realise that there nothing related to programming/cybersecurity It's because my potato pc🔥 can only record using xbox-game-bar so I can't do something really although I tried to record using obs-studio but the quality was so bad and the quality of the video is probably 144p10 since it was cutting clips as images instead of videos for some other reasons.
+Also , I just  wanna say if i would make a goal to myself it would probably be making a useful project or repos that actually help developers and anyone else.
 
 <p align="left">
     <a href="https://www.youtube.com/channel/UC8haN0hOVjsV8FPpJBi4IFQ?sub_confirmation=1">
@@ -105,10 +105,6 @@ Also , erm.. I wanna say if i would make a goal to myself it would probably be m
 
 
 <hr>
-
-<details>
 <summary><h2>🌐My <a href="https://crxmson.netlify.app"  target="_blank">Website</a>🌐 & <a href="https://guns.lol/grxss"  target="_blank">Bio</a></h2></summary>
-<a href="#"><img align="center" src="https://api.netlify.com/api/v1/badges/5e2942b4-d368-4311-9103-669b4ad4ae9d/deploy-status"></a>
-    
-</details>
+
 
