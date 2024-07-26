@@ -1,12 +1,51 @@
-# Crxmson✨
+# ✨Crxmson✨
 
-**`Intersted in malware developement(Cybersecurity) _ web-development _ Software Developement`**
-<br>
-**`ofc i genereated this using chatgpt duh👍👌`**
+```rust
+const LANGUAGES: [&str; 5] = ["Rust", "C++", "JavaScript", "Python", "C"];
 
-I bring a wealth of expertise in cybersecurity, malware development, web development, and software engineering. My passion lies in creating secure, efficient solutions that drive innovation and enhance user experiences. With a strong analytical mindset and a commitment to continuous learning, I thrive in dynamic environments where I can contribute my skills to impactful projects.You can also check my <a href="https://www.youtube.com/channel/UC8haN0hOVjsV8FPpJBi4IFQ?">youtube</a> channel I doesn't upload any content right now and if you check the channel you'll realise that there nothing related to programming/cybersecurity It's because my potato pc🔥 can only record using xbox-game-bar so I can't do something really although I tried to record using obs-studio but the quality was so bad and the quality of the video is probably 144p10 since it was cutting clips as images instead of videos for some other reasons.
-Also , I just  wanna say if i would make a goal to myself it would probably be making a useful project or repos that actually help developers and anyone else.
+struct Skills {
+    programming: Vec<String>,
+    design: bool,
+    problem_solving: bool,
+}
 
+impl Skills {
+    fn new() -> Self {
+        Skills {
+            programming: Vec::new(),
+            design: false,
+            problem_solving: false,
+        }
+    }
+
+    fn add_language(&mut self, lang: &str) {
+        self.programming.push(lang.to_string());
+    }
+}
+
+fn main() {
+    let mut my_skills = Skills::new();
+
+    for lang in LANGUAGES.iter() {
+        my_skills.add_language(lang);
+    }
+
+
+    println!("My programming skills:");
+    for lang in my_skills.programming.iter() {
+        println!("  - {}", lang);
+    }
+
+  
+    macro_rules! rahhh {
+        () => {
+            println!("This is a complex operation!");
+        };
+    }
+
+    rahhh!();
+}
+```
 <p align="left">
     <a href="https://www.youtube.com/channel/UC8haN0hOVjsV8FPpJBi4IFQ?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8haN0hOVjsV8FPpJBi4IFQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -71,9 +110,10 @@ Also , I just  wanna say if i would make a goal to myself it would probably be m
 
    <h3>🪟Operation system🐧</h3>
    <p>
-      <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Windows%2011-1793D1.svg?logo=windows-11&logoColor=white"></a>
+      <a href="#"><img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-1793D1.svg?logo=windows-11&logoColor=white"></a>
       <a href="#"><img alt="Windows 10" src="https://img.shields.io/badge/Windows%2010-1793D1.svg?logo=windows-10&logoColor=white"></a>
-      <a href="#"><img alt="Windows 11" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+      <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+      <a href="#"><img alt="Windows 11" src="https://img.shields.io/badge/Manjaro%Linux-1793D1.svg?logo=manjaro&logoColor=white"></a>
   </p>
 </details>
 <br>
@@ -101,9 +141,12 @@ Also , I just  wanna say if i would make a goal to myself it would probably be m
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDot-mal&repo=Counting-program&theme=date_night"/>
 </a>
 </details>
+<details>
+<summary>
+<h2>🌐My <a href="https://crxmson.netlify.app"  target="_blank">Website</a>🌐 & <a href="https://guns.lol/grxss"  target="_blank">Bio</a></h2>
 
+<img width=650 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=0Xdot-mal&theme=date_night&layout=compact"/>
 
-<hr>
-<summary><h2>🌐My <a href="https://crxmson.netlify.app"  target="_blank">Website</a>🌐 & <a href="https://guns.lol/grxss"  target="_blank">Bio</a></h2></summary>
-
+</summary>
+</details>
 
