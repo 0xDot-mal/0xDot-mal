@@ -145,7 +145,7 @@ fn main() {
 <summary>
 <h2>🌐My <a href="https://crxmson.netlify.app"  target="_blank">Website</a>🌐 & <a href="https://guns.lol/grxss"  target="_blank">Bio</a></h2>
 
-<img width=650 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xDot-mal&theme=date_night&layout=compact"/>
+# <img width=650 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xDot-mal&theme=date_night&layout=compact"/>
 
 </summary>
 </details>
