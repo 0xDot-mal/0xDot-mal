@@ -112,8 +112,6 @@ fn main() {
    <p>
       <a href="#"><img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-1793D1.svg?logo=windows-11&logoColor=white"></a>
       <a href="#"><img alt="Windows 10" src="https://img.shields.io/badge/Windows%2010-1793D1.svg?logo=windows-10&logoColor=white"></a>
-      <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-      <a href="#"><img alt="Windows 11" src="https://img.shields.io/badge/Manjaro%Linux-1793D1.svg?logo=manjaro&logoColor=white"></a>
   </p>
 </details>
 <br>
