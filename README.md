@@ -14,7 +14,7 @@ impl Skills {
         Skills {
             programming: Vec::new(),
             design: false,
-            problem_solving: false,
+            problem_solving: true, // cap.
         }
     }
 
