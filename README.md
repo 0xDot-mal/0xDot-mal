@@ -138,10 +138,9 @@ fn main() {
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xDot-mal&repo=Counting-program&theme=date_night"/>
 </a>
 </details>
-<details>
 <hr>
 <h2>🌐My <a href="https://crxmson.netlify.app"  target="_blank">Website</a>🌐 & <a href="https://guns.lol/grxss"  target="_blank">Bio</a></h2>
 
 
-</details>
+
 
