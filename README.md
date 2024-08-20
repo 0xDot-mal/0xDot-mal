@@ -139,10 +139,9 @@ fn main() {
 </a>
 </details>
 <details>
-<summary>
+<hr>
 <h2>🌐My <a href="https://crxmson.netlify.app"  target="_blank">Website</a>🌐 & <a href="https://guns.lol/grxss"  target="_blank">Bio</a></h2>
 
 
-</summary>
 </details>
 
